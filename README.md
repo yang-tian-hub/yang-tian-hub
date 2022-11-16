@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/yang-tian-hub/PictureBed/github_logo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://cdn.jsdelivr.net/gh/yang-tian-hub/PictureBed/github_logo.gif" alt="GitHub Logo" width="120" height="120" />
 </div>
 
 ## Welcome To My GitHub Profile ! 👋
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/yang-tian-hub/yang-tian-hub/assets/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/yang-tian-hub/yang-tian-hub/assets/github-contribution-grid-snake.svg" width="2048" /></div>
 
 <h1 align="center"> <a href="https://blog.ytadx.cn/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;小杨同学祝您今天愉快!&center=true&size=27"> </a> </h1>
 
