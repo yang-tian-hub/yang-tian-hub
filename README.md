@@ -16,8 +16,11 @@ I’m currently learning: Advanced Control Theory | Automation | Embedded Develo
 </p>
 
 
+
 <!--
 **yang-tian-hub/yang-tian-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/yang-tian-hub/yang-tian-hub/assets/github-contribution-grid-snake.svg" /></div>
 
 Here are some ideas to get you started:
 
